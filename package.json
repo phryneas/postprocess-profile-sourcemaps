@@ -1,6 +1,6 @@
 {
   "name": "@phryneas/process-profile-sourcemaps",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "phryneas",
   "license": "MIT",
   "bin": {

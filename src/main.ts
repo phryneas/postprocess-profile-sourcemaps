@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { command, run, positional, string } from "cmd-ts";
 import getSource = require("get-source");
 import * as fs from "fs";
