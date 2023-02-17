@@ -4,7 +4,7 @@ import * as fs from "fs";
 import type { DurationEvent } from "hermes-profile-transformer/dist/types/EventInterfaces";
 
 const app = command({
-  name: "postprocess-profile-sourcemaps",
+  name: "@phryneas/process-profile-sourcemaps",
   description: "a tool to postprocess sourcemap references in a chrome profile",
   args: {
     file: positional({ type: string, displayName: "file" }),
