@@ -1,6 +1,6 @@
 {
   "name": "@phryneas/process-profile-sourcemaps",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "phryneas",
   "license": "MIT",
   "bin": {
@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "cmd-ts": "^0.12.1",
-    "get-source": "^2.0.12"
+    "get-source": "^2.0.12",
+    "ts-morph": "^17.0.1"
   },
   "files": [
     "dist"
